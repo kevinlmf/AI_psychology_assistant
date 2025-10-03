@@ -1,6 +1,6 @@
 # Psychology Agent + RLHF
 
-An LM-based mental health assistant integrating **Agent architecture** and **RLHF (Reinforcement Learning from Human Feedback)**, continuously optimized through multimodal data analysis and human feedback.
+A LLM-based mental health assistant integrating **Agent architecture** and **RLHF (Reinforcement Learning from Human Feedback)**, continuously optimized through multimodal data analysis and human feedback.
 
 ## Disclaimer
 
