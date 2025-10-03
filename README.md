@@ -61,7 +61,7 @@ psychology_agent/
 ```
 
 ## Quick Start
-git clone git@github.com:kevinlmf/AI_psychology_assistant.git
+git clone https://github.com/kevinlmf/AI_psychology_assistant
 cd AI_psychology_assistant
 
 ### 1. Install Dependencies
@@ -108,3 +108,8 @@ Select mode:
 
 ```
 You: I've been under a lot of work stress lately, feeling a bit anxious
+```
+
+### 5.Future Work
+
+This is only a draft of the conversation.  And a lot improvment will be made in the future. 
