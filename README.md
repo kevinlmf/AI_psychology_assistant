@@ -6,7 +6,7 @@ A LLM-based mental health assistant integrating **Agent architecture** and **RLH
 
 **This project is for research and personal interest only.** It is not a substitute for professional mental health care. If you are experiencing mental health issues, please consult a licensed mental health professional or contact a crisis helpline.
 
-✨ I hope everyone can stay happy and free from anxiety, anger, or any other negative emotions every single day.
+✨ I hope everyone can stay happy and free from anxiety, anger, or any other negative emotions — and keep smiling every single day.
 
 ## Core Features
 
