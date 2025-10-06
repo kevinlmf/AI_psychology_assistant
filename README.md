@@ -59,14 +59,14 @@ psychology_agent/
 │   └── rlhf/                   # RLHF training data
 └── main.py                     # Main application entry
 ```
-
+```bash
 ## Quick Start
 git clone https://github.com/kevinlmf/AI_psychology_assistant
 cd AI_psychology_assistant
 
 ### 1. Install Dependencies
 
-```bash
+
 cd psychology_agent
 pip install -r requirements.txt
 ```
