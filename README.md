@@ -2,9 +2,6 @@
 
 A mental health assistant integrating agent architecture and personality-aware RLHF (Reinforcement Learning from Human Feedback).
 
-## Disclaimer
-
-**For research and personal interest only.** Not a substitute for professional mental health care. If experiencing mental health issues, consult a licensed professional or crisis helpline.
 
 ## Core Features
 
@@ -47,6 +44,8 @@ psychology_agent/
 ```
 
 ## Quick Start
+git clone https://github.com/kevinlmf/Agent_psychology_assistant
+cd Agent_psychology_assistant
 
 ### 1. Install Dependencies
 
