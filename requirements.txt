@@ -8,6 +8,11 @@ aiohttp>=3.9.0
 # Data processing
 pandas>=2.0.0
 numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization (optional)
+matplotlib>=3.7.0
+seaborn>=0.12.0
 
 # RLHF/RL (optional, for advanced training)
 # torch>=2.0.0

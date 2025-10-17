@@ -1,0 +1,3531 @@
+{
+  "timestamp": "2025-10-16T23:15:33.112568",
+  "exploration_history": [
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 0.5
+      },
+      "score": 0.6625,
+      "timestamp": "2025-10-16T23:15:32.629848"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.6375,
+      "timestamp": "2025-10-16T23:15:32.629991"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5,
+        "engagement": 0.9
+      },
+      "score": 0.33,
+      "timestamp": "2025-10-16T23:15:32.630068"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 0.5
+      },
+      "score": 0.5,
+      "timestamp": "2025-10-16T23:15:32.630134"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.8500000000000001,
+      "timestamp": "2025-10-16T23:15:32.630197"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.5125,
+      "timestamp": "2025-10-16T23:15:32.630259"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 0.5
+      },
+      "score": 0.4125,
+      "timestamp": "2025-10-16T23:15:32.630319"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.625,
+        "engagement": 0.8
+      },
+      "score": 0.8475,
+      "timestamp": "2025-10-16T23:15:32.630378"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.630436"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.630495"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.5125,
+      "timestamp": "2025-10-16T23:15:32.632205"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.632277"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.8875,
+      "timestamp": "2025-10-16T23:15:32.632339"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.8875,
+      "timestamp": "2025-10-16T23:15:32.632400"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.632462"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.6000000000000001,
+      "timestamp": "2025-10-16T23:15:32.632523"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.8875,
+      "timestamp": "2025-10-16T23:15:32.632583"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.47500000000000003,
+      "timestamp": "2025-10-16T23:15:32.632645"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 0.8
+      },
+      "score": 0.47250000000000003,
+      "timestamp": "2025-10-16T23:15:32.632700"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.6000000000000001,
+      "timestamp": "2025-10-16T23:15:32.632746"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.7250000000000001,
+      "timestamp": "2025-10-16T23:15:32.634544"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.6375,
+      "timestamp": "2025-10-16T23:15:32.634600"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.7250000000000001,
+      "timestamp": "2025-10-16T23:15:32.634647"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.625,
+        "engagement": 0.9
+      },
+      "score": 0.6175,
+      "timestamp": "2025-10-16T23:15:32.634691"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 0.9
+      },
+      "score": 0.49250000000000005,
+      "timestamp": "2025-10-16T23:15:32.634741"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.625,
+        "engagement": 0.8
+      },
+      "score": 0.5975,
+      "timestamp": "2025-10-16T23:15:32.634793"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.634843"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.8500000000000001,
+      "timestamp": "2025-10-16T23:15:32.634889"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.5125,
+      "timestamp": "2025-10-16T23:15:32.634938"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.8,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.627982"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:32.634989"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:32.739251"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.33125000000000004,
+      "timestamp": "2025-10-16T23:15:32.739497"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.739585"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.4
+      },
+      "score": 0.37374999999999997,
+      "timestamp": "2025-10-16T23:15:32.739730"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.739859"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:32.739950"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.3
+      },
+      "score": 0.5662499999999999,
+      "timestamp": "2025-10-16T23:15:32.740033"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.70375,
+      "timestamp": "2025-10-16T23:15:32.740124"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.740311"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.740394"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.70625,
+      "timestamp": "2025-10-16T23:15:32.745003"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.745098"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.6437499999999999,
+      "timestamp": "2025-10-16T23:15:32.745148"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.745187"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:32.745222"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.36875,
+      "timestamp": "2025-10-16T23:15:32.745258"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.59875,
+      "timestamp": "2025-10-16T23:15:32.745297"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:32.745331"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.745364"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.745397"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.70625,
+      "timestamp": "2025-10-16T23:15:32.749240"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.749289"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.749326"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.70625,
+      "timestamp": "2025-10-16T23:15:32.749360"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.749394"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.70625,
+      "timestamp": "2025-10-16T23:15:32.749427"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.749460"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.45375,
+      "timestamp": "2025-10-16T23:15:32.749494"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.70375,
+      "timestamp": "2025-10-16T23:15:32.749529"
+    },
+    {
+      "personality": {
+        "openness": 0.7,
+        "conscientiousness": 0.6,
+        "extraversion": 0.8,
+        "agreeableness": 0.7,
+        "neuroticism": 0.3,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.738831"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:32.749563"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.856029"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.856436"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.856521"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.856596"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.856685"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.856763"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.857238"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.857343"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.857425"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.5
+      },
+      "score": 0.48124999999999996,
+      "timestamp": "2025-10-16T23:15:32.857503"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.9
+      },
+      "score": 0.56125,
+      "timestamp": "2025-10-16T23:15:32.862280"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.862376"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.862418"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.862454"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.862491"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.5
+      },
+      "score": 0.35624999999999996,
+      "timestamp": "2025-10-16T23:15:32.862525"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.862557"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.862593"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.862626"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.862658"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.866650"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.8
+      },
+      "score": 0.54125,
+      "timestamp": "2025-10-16T23:15:32.866695"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.866730"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.866763"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.8
+      },
+      "score": 0.54125,
+      "timestamp": "2025-10-16T23:15:32.866796"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.47375,
+      "timestamp": "2025-10-16T23:15:32.866830"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.866865"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.866939"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.867002"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.9,
+        "extraversion": 0.5,
+        "agreeableness": 0.6,
+        "neuroticism": 0.6,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.855190"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.867043"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.984455"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.47375,
+      "timestamp": "2025-10-16T23:15:32.984903"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.45375,
+      "timestamp": "2025-10-16T23:15:32.984993"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.5
+      },
+      "score": 0.35624999999999996,
+      "timestamp": "2025-10-16T23:15:32.985080"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.32875,
+      "timestamp": "2025-10-16T23:15:32.985162"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.985241"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.6437499999999999,
+      "timestamp": "2025-10-16T23:15:32.985398"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.4
+      },
+      "score": 0.37374999999999997,
+      "timestamp": "2025-10-16T23:15:32.985672"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.985725"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.36875,
+      "timestamp": "2025-10-16T23:15:32.985765"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.5187499999999999,
+      "timestamp": "2025-10-16T23:15:32.990526"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.36875,
+      "timestamp": "2025-10-16T23:15:32.990561"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.32875,
+      "timestamp": "2025-10-16T23:15:32.990587"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:32.990613"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.8
+      },
+      "score": 0.70375,
+      "timestamp": "2025-10-16T23:15:32.990639"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.36875,
+      "timestamp": "2025-10-16T23:15:32.990663"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.9
+      },
+      "score": 0.31125,
+      "timestamp": "2025-10-16T23:15:32.990691"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.990716"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.990741"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.45625,
+      "timestamp": "2025-10-16T23:15:32.990766"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.995378"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:32.995455"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.72375,
+      "timestamp": "2025-10-16T23:15:32.995485"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.9
+      },
+      "score": 0.43625,
+      "timestamp": "2025-10-16T23:15:32.995510"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.9
+      },
+      "score": 0.43625,
+      "timestamp": "2025-10-16T23:15:32.995536"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.47375,
+      "timestamp": "2025-10-16T23:15:32.995560"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:32.995585"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:32.995609"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.33125000000000004,
+      "timestamp": "2025-10-16T23:15:32.995635"
+    },
+    {
+      "personality": {
+        "openness": 0.9,
+        "conscientiousness": 0.4,
+        "extraversion": 0.6,
+        "agreeableness": 0.7,
+        "neuroticism": 0.5,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:32.973185"
+      },
+      "weights": {
+        "explicit_feedback": 0.46457057514887634,
+        "behavioral": 0.20794124814805198,
+        "clinical": 0.14060688301035107,
+        "safety": 0.08889910594728247,
+        "engagement": 0.09798218774543811
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.33125000000000004,
+      "timestamp": "2025-10-16T23:15:32.995658"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:33.103517"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.58125,
+      "timestamp": "2025-10-16T23:15:33.103764"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.49374999999999997,
+      "timestamp": "2025-10-16T23:15:33.104127"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.4375,
+        "engagement": 0.8
+      },
+      "score": 0.66625,
+      "timestamp": "2025-10-16T23:15:33.104342"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.9
+      },
+      "score": 0.59875,
+      "timestamp": "2025-10-16T23:15:33.104419"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5625,
+        "engagement": 0.5
+      },
+      "score": 0.39374999999999993,
+      "timestamp": "2025-10-16T23:15:33.104490"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.36875,
+      "timestamp": "2025-10-16T23:15:33.104560"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.0,
+        "clinical_improvement": 0.4375,
+        "engagement": 1.0
+      },
+      "score": 0.33125000000000004,
+      "timestamp": "2025-10-16T23:15:33.104629"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.7437499999999999,
+      "timestamp": "2025-10-16T23:15:33.104701"
+    },
+    {
+      "personality": {
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5,
+        "confidence": 0.3,
+        "assessed_at": "2025-10-16T23:15:33.103097"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5625,
+        "engagement": 1.0
+      },
+      "score": 0.6187499999999999,
+      "timestamp": "2025-10-16T23:15:33.104776"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 1.0,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.8500000000000001,
+      "timestamp": "2025-10-16T23:15:33.112193"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 0.5
+      },
+      "score": 0.4125,
+      "timestamp": "2025-10-16T23:15:33.112299"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.6000000000000001,
+      "timestamp": "2025-10-16T23:15:33.112340"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.7250000000000001,
+      "timestamp": "2025-10-16T23:15:33.112374"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.47500000000000003,
+      "timestamp": "2025-10-16T23:15:33.112407"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.6000000000000001,
+      "timestamp": "2025-10-16T23:15:33.112438"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.5,
+        "clinical_improvement": 0.5,
+        "engagement": 1.0
+      },
+      "score": 0.6000000000000001,
+      "timestamp": "2025-10-16T23:15:33.112468"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:33.112497"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.25,
+        "clinical_improvement": 0.625,
+        "engagement": 0.5
+      },
+      "score": 0.4125,
+      "timestamp": "2025-10-16T23:15:33.112528"
+    },
+    {
+      "personality": {
+        "openness": 0.6,
+        "conscientiousness": 0.7,
+        "extraversion": 0.3,
+        "agreeableness": 0.8,
+        "neuroticism": 0.9,
+        "confidence": 0.8,
+        "assessed_at": "2025-10-16T23:15:33.112101"
+      },
+      "weights": {
+        "explicit_feedback": 0.3,
+        "behavioral": 0.25,
+        "clinical": 0.25,
+        "safety": 0.15,
+        "engagement": 0.05
+      },
+      "metrics": {
+        "user_satisfaction": 0.75,
+        "clinical_improvement": 0.625,
+        "engagement": 1.0
+      },
+      "score": 0.7625,
+      "timestamp": "2025-10-16T23:15:33.112558"
+    }
+  ],
+  "cluster_configs": {
+    "0": [
+      {
+        "weights": {
+          "explicit_feedback": 0.3,
+          "behavioral": 0.25,
+          "clinical": 0.25,
+          "safety": 0.15,
+          "engagement": 0.05
+        },
+        "score": 0.5820178571428579,
+        "samples": 280
+      },
+      {
+        "weights": {
+          "explicit_feedback": 0.46457057514887634,
+          "behavioral": 0.20794124814805198,
+          "clinical": 0.14060688301035107,
+          "safety": 0.08889910594728247,
+          "engagement": 0.09798218774543811
+        },
+        "score": 0.5583333333333337,
+        "samples": 120
+      }
+    ]
+  }
+}
