@@ -97,7 +97,7 @@ See **PERSONALIZED_RLHF.md** for complete documentation.
 
 - **README.md** (this file) - Quick start and overview
 - **PERSONALIZED_RLHF.md** - Complete guide for personalized RLHF system
-- **ARCHITECTURE.md** - Original system architecture reference
+
 
 ## Key Technologies
 
