@@ -44,9 +44,10 @@ psychology_agent/
 ```
 
 ## Quick Start
+```bash
 git clone https://github.com/kevinlmf/Agent_psychology_assistant
 cd Agent_psychology_assistant
-
+```
 ### 1. Install Dependencies
 
 ```bash
